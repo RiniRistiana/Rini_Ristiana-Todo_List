@@ -1,0 +1,25 @@
+Create a variable items to do list
+
+Display do
+
+input action
+
+While action
+    Do
+IF (add item button clicked), Then
+    user set items into the list you want to keep
+    Print "add a new task to list"
+Else (delete item button clicked), Then
+    user select the task you want to remove from the list
+    Print "delete task from list"
+Else (edit item button clicked)
+    user select the task you want to edit from the list
+    user set items into the list you want to keep
+    Print "task changed"
+end
+
+
+    exit = press_exit
+end
+
+
